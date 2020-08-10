@@ -1,0 +1,12 @@
+.videoCard{
+    width: 270px;
+    margin-bottom: 40px;
+    margin-right: 10px;
+    background-color: white;
+    padding: 10px;
+}
+
+.videoCard__thumbnail{
+    /* height: 170px; */
+    width: 100%;
+}
